@@ -9,8 +9,8 @@ Copied the skrew holes and few other details from Voron standard, and then added
 Design can be found from OnShape online CAD: [link to CAD "file"](https://github.com/VoronDesign/Voron-Afterburner/tree/master/STLs/Gantry/Printheads)
 
 The STL files:
-- Absolute_Gigantic_Connection_Cover.stl
-- Absolute_Gigantic_Connection_Cover-Rear_Door.stl
+- [Absolute_Gigantic_Connection_Cover.stl](Absolute_Gigantic_Connection_Cover.stl)
+- [Absolute_Gigantic_Connection_Cover-Rear_Door.stl](Absolute_Gigantic_Connection_Cover-Rear_Door.stl)
 
 And yes this is partially joke, but I'm not going to suffer from the standard, which has been designed too small.
 
