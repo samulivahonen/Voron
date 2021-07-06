@@ -21,4 +21,4 @@ Here is animated comparison of standard and Absolute Gigantic Connection Cover.
 
 ## How it looks in it's natural habitat?
 
-![image](AB-AGCC_in_its_natural_habitat)
+![image](AB-AGCC_in_its_natural_habitat.jpg)
