@@ -19,4 +19,5 @@ For heat soaking I'm using gcode instead of macro. This is because I can pause a
 ## Temperature graphs
 
 First 20min - heating the bed
+
 Last 20min - under bed fans 10min, main air rotation fan
