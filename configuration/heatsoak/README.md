@@ -1,6 +1,6 @@
-For heat soaking I'm using gcode instead of macro. This is because I can pause and stop gcode, but there is no way of stopping macro or even seeing how it's progressing.
+For heat soaking I'm using gcode instead of macro. This is because I can pause and stop gcode, but there is no way of stopping macro or having any indication how many % we are in makro. With gcode all this is possible.
 
-This gcode heats my printer for ABS printing. What it is doing:
+What the gcode does:
 1. turns off extra fans, sets bed to 117C, homing
 2. sets printhead middle of bed and 50mm heigth, and turns on part fan
 3. waits 20min so bed gets to 117C and starts to stabilize
