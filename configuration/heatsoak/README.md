@@ -12,3 +12,4 @@ What the gcode does:
 6. set underbed fans to smaller speed and starts the main air rotation fan
 7. wait 10 minutes and printer should be around 55C and ready to print
 8. move printhead around to notify printer operator that heatsoak is ready
+9. Park hotend to location where reverse bowden is in good angle for changing filament
