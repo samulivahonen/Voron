@@ -16,7 +16,7 @@
 ; Version history
 ; 2022-04-22, version 1,  initial version
 
-: Turn off extra fans:
+; Turn off extra fans:
 SET_FAN_SPEED FAN=underbed SPEED=0 
 SET_FAN_SPEED FAN=toptobottom SPEED=0 
 
