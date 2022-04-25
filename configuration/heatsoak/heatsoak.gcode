@@ -122,13 +122,13 @@ M117 15:20 of 20min
 G4 P20000                                           ; wait 20 seconds
 M117 15:40 of 20min
 G4 P20000                                           ; wait 20 seconds
-M117 15:00 of 20min
-G4 P20000                                           ; wait 20 seconds
-M117 15:20 of 20min
-G4 P20000                                           ; wait 20 seconds
-M117 15:40 of 20min
-G4 P20000                                           ; wait 20 seconds
 M117 16:00 of 20min
+G4 P20000                                           ; wait 20 seconds
+M117 16:20 of 20min
+G4 P20000                                           ; wait 20 seconds
+M117 16:40 of 20min
+G4 P20000                                           ; wait 20 seconds
+M117 17:00 of 20min
 G4 P20000                                           ; wait 20 seconds
 M117 16:20 of 20min
 G4 P20000                                           ; wait 20 seconds
