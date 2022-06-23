@@ -36,7 +36,7 @@ Notice how the extruder temperature starts to differ radically from the chamber 
 ![Last 20 minutes of heatsoaking, fans stirring the air in chamber](https://raw.githubusercontent.com/samulivahonen/Voron/main/configuration/heatsoak/images/Last20min.png)
 
 ### Temperature after the script
-Just leaving machine running 10 minutes raises the chamber temperature to 53.5°C. When the print starts then also hotend will provide additional heat to chamber and we will reach 60°C around same time part fan starts blowing. This is assuming bedmesh is done and print is not tiny (=first layer takes at least few minutes) and part fan is enabled starting from 3rd layer.
+Just leaving machine running 10 minutes raises the chamber temperature to 53.5°C. When the print starts then also hotend will provide additional heat to chamber and we will reach 60°C around same time hotend fan starts blowing. This is assuming bedmesh is done and print is not tiny (=first layer takes at least few minutes) and part fan is enabled starting from 3rd layer.
 ![When printing and parts cooling fan starts we have 60C chamber temperature](https://raw.githubusercontent.com/samulivahonen/Voron/main/configuration/heatsoak/images/WhenPrintStartsPartsCoolingFanWeHave60CChamber.png)
 
 ### Progress reporting
